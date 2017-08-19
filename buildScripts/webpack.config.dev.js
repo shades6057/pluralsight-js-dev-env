@@ -4,8 +4,8 @@ import path from 'path';
 export default {
     debug: true,
     devtool: 'inLine-source-map',
-    noInfo: false;
-    entry: [
+    noInfo: false,
+        entry: [
         path.resolve(__dirname, 'src/index')
     ],
     target: 'web',
