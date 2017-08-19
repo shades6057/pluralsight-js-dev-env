@@ -5,7 +5,7 @@ export default {
     debug: true,
     devtool: 'inLine-source-map',
     noInfo: false,
-        entry: [
+    entry: [
         path.resolve(__dirname, 'src/index')
     ],
     target: 'web',
@@ -15,7 +15,7 @@ export default {
         filename: 'bundle.js'
     },
     devServer: {
-        contentBase: path.resolve(_dirname, 'src')
+        contentBase: path.resolve(__dirname, 'src')
     },
     plugins: [],
     module: {
