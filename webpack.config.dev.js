@@ -1,6 +1,5 @@
 
 import path from 'path';
-
 export default {
     debug: true,
     devtool: 'inLine-source-map',

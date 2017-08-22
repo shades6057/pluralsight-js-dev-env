@@ -1,0 +1,23 @@
+VSCode
+.editorconfig
+Node.JS and npm
+Package.json
+
+
+
+
+Quotes (Terms and conditions) and Service Reports should state in T&C, and possibly Warranty:
+Data logs or Data collected through the control system may be retained and used to improve our offerings.  
+
+All control systems designed by, provided, or supported by Schlumberger, including but not limited to the hardware, software, and interfaces shall not be altered by any Non-Schlumberger approved, or provided entity.
+
+(Internally it should be stated that no group that was not directly involved in the design of said system or its specific parameter in which the change is being implemented, shall have the authority to provide this approval without first recieving approval from the directly related design group.
+
+
+Service personnel are not allowed to make alterations to design, either physically or through software, without approval from the designing group.  This includes alterations to code. All code alterations must be provided from the appropriate support team (Schlumberger only) either to be loaded locally (on-site) or remotely (vtb system).  The AsFound AsLeft policy followed.
+
+
+  global.document.getELementById("users").innerHTML = usersBody;
+
+
+
